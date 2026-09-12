@@ -12,7 +12,7 @@ import healthRoutes from './routes/healthRoutes.js';
 
 const app = express();
 
-app.use('api', healthRoutes)
+app.use('/api', healthRoutes)
 
 
 async function runPollingCycle() {

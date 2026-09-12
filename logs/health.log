@@ -1,207 +1,84 @@
-{"level":"info","message":"Starting Gateway Health Monitor...","timestamp":"2026-09-11T22:59:21.120Z"}
-{"level":"info","message":"Poll Interval: 30000ms","timestamp":"2026-09-11T22:59:21.126Z"}
-{"level":"info","message":"Latency Threshold: 2000ms","timestamp":"2026-09-11T22:59:21.128Z"}
-{"level":"info","message":"--- Starting Polling Cycle (5 endpoints) ---","timestamp":"2026-09-11T22:59:21.128Z"}
-{"level":"info","message":"API Server listening on port 3000","timestamp":"2026-09-11T22:59:21.245Z"}
-{"level":"warn","message":"[FAIL] Mock Healthy     | ERR | N/A    | Reason: fetch failed","timestamp":"2026-09-11T22:59:21.336Z"}
-{"level":"warn","message":"[FAIL] Mock Unstable    | ERR | N/A    | Reason: fetch failed","timestamp":"2026-09-11T22:59:21.337Z"}
-{"level":"info","message":"[OK] JSONPlaceholder  | 200 | 768ms ","timestamp":"2026-09-11T22:59:21.899Z"}
-{"level":"info","message":"[OK] ReqRes API       | 200 | 773ms ","timestamp":"2026-09-11T22:59:22.009Z"}
-{"level":"info","message":"[OK] HTTPBin GET      | 200 | 1177ms","timestamp":"2026-09-11T22:59:22.409Z"}
-{"level":"error","message":"ALERT TRIGGERED for Mock Healthy - Reason: fetch failed","timestamp":"2026-09-11T22:59:22.412Z"}
-{"level":"error","message":"ALERT TRIGGERED for Mock Unstable - Reason: fetch failed","timestamp":"2026-09-11T22:59:22.413Z"}
-{"level":"info","message":"--- Starting Polling Cycle (5 endpoints) ---","timestamp":"2026-09-11T22:59:51.244Z"}
-{"level":"warn","message":"[FAIL] Mock Healthy     | ERR | N/A    | Reason: fetch failed","timestamp":"2026-09-11T22:59:51.332Z"}
-{"level":"warn","message":"[FAIL] Mock Unstable    | ERR | N/A    | Reason: fetch failed","timestamp":"2026-09-11T22:59:51.334Z"}
-{"level":"info","message":"[OK] JSONPlaceholder  | 200 | 562ms ","timestamp":"2026-09-11T22:59:51.808Z"}
-{"level":"info","message":"[OK] ReqRes API       | 200 | 856ms ","timestamp":"2026-09-11T22:59:52.109Z"}
-{"level":"info","message":"[OK] HTTPBin GET      | 200 | 1118ms","timestamp":"2026-09-11T22:59:52.369Z"}
-{"level":"error","message":"ALERT TRIGGERED for Mock Healthy - Reason: fetch failed","timestamp":"2026-09-11T22:59:52.371Z"}
-{"level":"error","message":"ALERT TRIGGERED for Mock Unstable - Reason: fetch failed","timestamp":"2026-09-11T22:59:52.372Z"}
-{"level":"info","message":"--- Starting Polling Cycle (5 endpoints) ---","timestamp":"2026-09-11T23:00:21.248Z"}
-{"level":"warn","message":"[FAIL] Mock Healthy     | ERR | N/A    | Reason: fetch failed","timestamp":"2026-09-11T23:00:21.268Z"}
-{"level":"warn","message":"[FAIL] Mock Unstable    | ERR | N/A    | Reason: fetch failed","timestamp":"2026-09-11T23:00:21.269Z"}
-{"level":"info","message":"[OK] JSONPlaceholder  | 200 | 496ms ","timestamp":"2026-09-11T23:00:21.748Z"}
-{"level":"info","message":"[OK] ReqRes API       | 200 | 525ms ","timestamp":"2026-09-11T23:00:21.782Z"}
-{"level":"info","message":"[OK] HTTPBin GET      | 200 | 1062ms","timestamp":"2026-09-11T23:00:22.317Z"}
-{"level":"error","message":"ALERT TRIGGERED for Mock Healthy - Reason: fetch failed","timestamp":"2026-09-11T23:00:22.323Z"}
-{"level":"error","message":"ALERT TRIGGERED for Mock Unstable - Reason: fetch failed","timestamp":"2026-09-11T23:00:22.328Z"}
-{"level":"info","message":"--- Starting Polling Cycle (5 endpoints) ---","timestamp":"2026-09-11T23:00:51.257Z"}
-{"level":"warn","message":"[FAIL] Mock Healthy     | ERR | N/A    | Reason: fetch failed","timestamp":"2026-09-11T23:00:51.268Z"}
-{"level":"warn","message":"[FAIL] Mock Unstable    | ERR | N/A    | Reason: fetch failed","timestamp":"2026-09-11T23:00:51.269Z"}
-{"level":"info","message":"[OK] JSONPlaceholder  | 200 | 510ms ","timestamp":"2026-09-11T23:00:51.768Z"}
-{"level":"info","message":"[OK] ReqRes API       | 200 | 549ms ","timestamp":"2026-09-11T23:00:51.809Z"}
-{"level":"info","message":"[OK] HTTPBin GET      | 200 | 958ms ","timestamp":"2026-09-11T23:00:52.217Z"}
-{"level":"error","message":"ALERT TRIGGERED for Mock Healthy - Reason: fetch failed","timestamp":"2026-09-11T23:00:52.223Z"}
-{"level":"error","message":"ALERT TRIGGERED for Mock Unstable - Reason: fetch failed","timestamp":"2026-09-11T23:00:52.230Z"}
-{"level":"info","message":"--- Starting Polling Cycle (5 endpoints) ---","timestamp":"2026-09-11T23:01:21.270Z"}
-{"level":"warn","message":"[FAIL] Mock Healthy     | ERR | N/A    | Reason: fetch failed","timestamp":"2026-09-11T23:01:21.289Z"}
-{"level":"warn","message":"[FAIL] Mock Unstable    | ERR | N/A    | Reason: fetch failed","timestamp":"2026-09-11T23:01:21.292Z"}
-{"level":"info","message":"[OK] JSONPlaceholder  | 200 | 803ms ","timestamp":"2026-09-11T23:01:22.077Z"}
-{"level":"info","message":"[OK] ReqRes API       | 200 | 878ms ","timestamp":"2026-09-11T23:01:22.157Z"}
-{"level":"info","message":"[OK] HTTPBin GET      | 200 | 1250ms","timestamp":"2026-09-11T23:01:22.527Z"}
-{"level":"error","message":"ALERT TRIGGERED for Mock Healthy - Reason: fetch failed","timestamp":"2026-09-11T23:01:22.529Z"}
-{"level":"error","message":"ALERT TRIGGERED for Mock Unstable - Reason: fetch failed","timestamp":"2026-09-11T23:01:22.531Z"}
-{"level":"info","message":"--- Starting Polling Cycle (5 endpoints) ---","timestamp":"2026-09-11T23:01:51.273Z"}
-{"level":"warn","message":"[FAIL] Mock Healthy     | ERR | N/A    | Reason: fetch failed","timestamp":"2026-09-11T23:01:51.295Z"}
-{"level":"warn","message":"[FAIL] Mock Unstable    | ERR | N/A    | Reason: fetch failed","timestamp":"2026-09-11T23:01:51.299Z"}
-{"level":"info","message":"[OK] JSONPlaceholder  | 200 | 506ms ","timestamp":"2026-09-11T23:01:51.780Z"}
-{"level":"info","message":"[OK] ReqRes API       | 200 | 679ms ","timestamp":"2026-09-11T23:01:51.958Z"}
-{"level":"info","message":"[OK] HTTPBin GET      | 200 | 989ms ","timestamp":"2026-09-11T23:01:52.267Z"}
-{"level":"error","message":"ALERT TRIGGERED for Mock Healthy - Reason: fetch failed","timestamp":"2026-09-11T23:01:52.271Z"}
-{"level":"error","message":"ALERT TRIGGERED for Mock Unstable - Reason: fetch failed","timestamp":"2026-09-11T23:01:52.272Z"}
-{"level":"info","message":"--- Starting Polling Cycle (5 endpoints) ---","timestamp":"2026-09-11T23:02:21.277Z"}
-{"level":"warn","message":"[FAIL] Mock Healthy     | ERR | N/A    | Reason: fetch failed","timestamp":"2026-09-11T23:02:21.324Z"}
-{"level":"warn","message":"[FAIL] Mock Unstable    | ERR | N/A    | Reason: fetch failed","timestamp":"2026-09-11T23:02:21.330Z"}
-{"level":"info","message":"[OK] JSONPlaceholder  | 200 | 551ms ","timestamp":"2026-09-11T23:02:21.834Z"}
-{"level":"info","message":"[OK] ReqRes API       | 200 | 600ms ","timestamp":"2026-09-11T23:02:21.889Z"}
-{"level":"info","message":"[OK] HTTPBin GET      | 200 | 1121ms","timestamp":"2026-09-11T23:02:22.406Z"}
-{"level":"error","message":"ALERT TRIGGERED for Mock Healthy - Reason: fetch failed","timestamp":"2026-09-11T23:02:22.408Z"}
-{"level":"error","message":"ALERT TRIGGERED for Mock Unstable - Reason: fetch failed","timestamp":"2026-09-11T23:02:22.409Z"}
-{"level":"info","message":"--- Starting Polling Cycle (5 endpoints) ---","timestamp":"2026-09-11T23:02:51.290Z"}
-{"level":"warn","message":"[FAIL] Mock Healthy     | ERR | N/A    | Reason: fetch failed","timestamp":"2026-09-11T23:02:51.301Z"}
-{"level":"warn","message":"[FAIL] Mock Unstable    | ERR | N/A    | Reason: fetch failed","timestamp":"2026-09-11T23:02:51.303Z"}
-{"level":"info","message":"[OK] ReqRes API       | 200 | 255ms ","timestamp":"2026-09-11T23:02:51.548Z"}
-{"level":"info","message":"[OK] JSONPlaceholder  | 200 | 487ms ","timestamp":"2026-09-11T23:02:51.777Z"}
-{"level":"info","message":"[OK] HTTPBin GET      | 200 | 1280ms","timestamp":"2026-09-11T23:02:52.571Z"}
-{"level":"error","message":"ALERT TRIGGERED for Mock Healthy - Reason: fetch failed","timestamp":"2026-09-11T23:02:52.590Z"}
-{"level":"error","message":"ALERT TRIGGERED for Mock Unstable - Reason: fetch failed","timestamp":"2026-09-11T23:02:52.607Z"}
-{"level":"info","message":"--- Starting Polling Cycle (5 endpoints) ---","timestamp":"2026-09-11T23:03:21.302Z"}
-{"level":"warn","message":"[FAIL] Mock Healthy     | ERR | N/A    | Reason: fetch failed","timestamp":"2026-09-11T23:03:21.315Z"}
-{"level":"warn","message":"[FAIL] Mock Unstable    | ERR | N/A    | Reason: fetch failed","timestamp":"2026-09-11T23:03:21.316Z"}
-{"level":"info","message":"[OK] JSONPlaceholder  | 200 | 485ms ","timestamp":"2026-09-11T23:03:21.788Z"}
-{"level":"info","message":"[OK] ReqRes API       | 200 | 644ms ","timestamp":"2026-09-11T23:03:21.950Z"}
-{"level":"info","message":"[OK] HTTPBin GET      | 200 | 1195ms","timestamp":"2026-09-11T23:03:22.499Z"}
-{"level":"error","message":"ALERT TRIGGERED for Mock Healthy - Reason: fetch failed","timestamp":"2026-09-11T23:03:22.502Z"}
-{"level":"error","message":"ALERT TRIGGERED for Mock Unstable - Reason: fetch failed","timestamp":"2026-09-11T23:03:22.503Z"}
-{"level":"info","message":"--- Starting Polling Cycle (5 endpoints) ---","timestamp":"2026-09-11T23:03:51.305Z"}
-{"level":"warn","message":"[FAIL] Mock Healthy     | ERR | N/A    | Reason: fetch failed","timestamp":"2026-09-11T23:03:51.321Z"}
-{"level":"warn","message":"[FAIL] Mock Unstable    | ERR | N/A    | Reason: fetch failed","timestamp":"2026-09-11T23:03:51.323Z"}
-{"level":"info","message":"[OK] JSONPlaceholder  | 200 | 481ms ","timestamp":"2026-09-11T23:03:51.788Z"}
-{"level":"info","message":"[OK] ReqRes API       | 200 | 545ms ","timestamp":"2026-09-11T23:03:51.857Z"}
-{"level":"info","message":"[OK] HTTPBin GET      | 200 | 1339ms","timestamp":"2026-09-11T23:03:52.649Z"}
-{"level":"error","message":"ALERT TRIGGERED for Mock Healthy - Reason: fetch failed","timestamp":"2026-09-11T23:03:52.651Z"}
-{"level":"error","message":"ALERT TRIGGERED for Mock Unstable - Reason: fetch failed","timestamp":"2026-09-11T23:03:52.654Z"}
-{"level":"info","message":"--- Starting Polling Cycle (5 endpoints) ---","timestamp":"2026-09-11T23:04:21.312Z"}
-{"level":"warn","message":"[FAIL] Mock Healthy     | ERR | N/A    | Reason: fetch failed","timestamp":"2026-09-11T23:04:21.371Z"}
-{"level":"warn","message":"[FAIL] Mock Unstable    | ERR | N/A    | Reason: fetch failed","timestamp":"2026-09-11T23:04:21.372Z"}
-{"level":"info","message":"[OK] ReqRes API       | 200 | 270ms ","timestamp":"2026-09-11T23:04:21.587Z"}
-{"level":"info","message":"[OK] JSONPlaceholder  | 200 | 547ms ","timestamp":"2026-09-11T23:04:21.861Z"}
-{"level":"info","message":"[OK] HTTPBin GET      | 200 | 1165ms","timestamp":"2026-09-11T23:04:22.480Z"}
-{"level":"error","message":"ALERT TRIGGERED for Mock Healthy - Reason: fetch failed","timestamp":"2026-09-11T23:04:22.483Z"}
-{"level":"error","message":"ALERT TRIGGERED for Mock Unstable - Reason: fetch failed","timestamp":"2026-09-11T23:04:22.486Z"}
-{"level":"info","message":"--- Starting Polling Cycle (5 endpoints) ---","timestamp":"2026-09-11T23:04:51.329Z"}
-{"level":"warn","message":"[FAIL] Mock Healthy     | ERR | N/A    | Reason: fetch failed","timestamp":"2026-09-11T23:04:51.345Z"}
-{"level":"warn","message":"[FAIL] Mock Unstable    | ERR | N/A    | Reason: fetch failed","timestamp":"2026-09-11T23:04:51.348Z"}
-{"level":"info","message":"[OK] ReqRes API       | 200 | 464ms ","timestamp":"2026-09-11T23:04:51.797Z"}
-{"level":"info","message":"[OK] JSONPlaceholder  | 200 | 510ms ","timestamp":"2026-09-11T23:04:51.840Z"}
-{"level":"info","message":"[OK] HTTPBin GET      | 200 | 1036ms","timestamp":"2026-09-11T23:04:52.367Z"}
-{"level":"error","message":"ALERT TRIGGERED for Mock Healthy - Reason: fetch failed","timestamp":"2026-09-11T23:04:52.369Z"}
-{"level":"error","message":"ALERT TRIGGERED for Mock Unstable - Reason: fetch failed","timestamp":"2026-09-11T23:04:52.371Z"}
-{"level":"info","message":"--- Starting Polling Cycle (5 endpoints) ---","timestamp":"2026-09-11T23:05:21.332Z"}
-{"level":"warn","message":"[FAIL] Mock Healthy     | ERR | N/A    | Reason: fetch failed","timestamp":"2026-09-11T23:05:21.351Z"}
-{"level":"warn","message":"[FAIL] Mock Unstable    | ERR | N/A    | Reason: fetch failed","timestamp":"2026-09-11T23:05:21.352Z"}
-{"level":"info","message":"[OK] JSONPlaceholder  | 200 | 482ms ","timestamp":"2026-09-11T23:05:21.817Z"}
-{"level":"info","message":"[OK] ReqRes API       | 200 | 644ms ","timestamp":"2026-09-11T23:05:21.987Z"}
-{"level":"info","message":"[OK] HTTPBin GET      | 200 | 1047ms","timestamp":"2026-09-11T23:05:22.387Z"}
-{"level":"error","message":"ALERT TRIGGERED for Mock Healthy - Reason: fetch failed","timestamp":"2026-09-11T23:05:22.389Z"}
-{"level":"error","message":"ALERT TRIGGERED for Mock Unstable - Reason: fetch failed","timestamp":"2026-09-11T23:05:22.391Z"}
-{"level":"info","message":"--- Starting Polling Cycle (5 endpoints) ---","timestamp":"2026-09-11T23:05:51.337Z"}
-{"level":"warn","message":"[FAIL] Mock Healthy     | ERR | N/A    | Reason: fetch failed","timestamp":"2026-09-11T23:05:51.415Z"}
-{"level":"warn","message":"[FAIL] Mock Unstable    | ERR | N/A    | Reason: fetch failed","timestamp":"2026-09-11T23:05:51.417Z"}
-{"level":"info","message":"[OK] ReqRes API       | 200 | 290ms ","timestamp":"2026-09-11T23:05:51.632Z"}
-{"level":"info","message":"[OK] JSONPlaceholder  | 200 | 499ms ","timestamp":"2026-09-11T23:05:51.837Z"}
-{"level":"info","message":"[OK] HTTPBin GET      | 200 | 1336ms","timestamp":"2026-09-11T23:05:52.677Z"}
-{"level":"error","message":"ALERT TRIGGERED for Mock Healthy - Reason: fetch failed","timestamp":"2026-09-11T23:05:52.682Z"}
-{"level":"error","message":"ALERT TRIGGERED for Mock Unstable - Reason: fetch failed","timestamp":"2026-09-11T23:05:52.686Z"}
-{"level":"info","message":"--- Starting Polling Cycle (5 endpoints) ---","timestamp":"2026-09-11T23:06:21.347Z"}
-{"level":"warn","message":"[FAIL] Mock Healthy     | ERR | N/A    | Reason: fetch failed","timestamp":"2026-09-11T23:06:21.360Z"}
-{"level":"warn","message":"[FAIL] Mock Unstable    | ERR | N/A    | Reason: fetch failed","timestamp":"2026-09-11T23:06:21.361Z"}
-{"level":"info","message":"[OK] ReqRes API       | 200 | 236ms ","timestamp":"2026-09-11T23:06:21.587Z"}
-{"level":"info","message":"[OK] JSONPlaceholder  | 200 | 582ms ","timestamp":"2026-09-11T23:06:21.929Z"}
-{"level":"warn","message":"[FAIL] HTTPBin GET      | ERR | N/A    | Reason: Request timed out after 5000ms","timestamp":"2026-09-11T23:06:26.371Z"}
-{"level":"error","message":"ALERT TRIGGERED for HTTPBin GET - Reason: Request timed out after 5000ms","timestamp":"2026-09-11T23:06:26.373Z"}
-{"level":"error","message":"ALERT TRIGGERED for Mock Healthy - Reason: fetch failed","timestamp":"2026-09-11T23:06:26.374Z"}
-{"level":"error","message":"ALERT TRIGGERED for Mock Unstable - Reason: fetch failed","timestamp":"2026-09-11T23:06:26.381Z"}
-{"level":"info","message":"Gracefully shutting down...","timestamp":"2026-09-11T23:06:36.660Z"}
-{"level":"info","message":"Starting Gateway Health Monitor...","timestamp":"2026-09-11T23:19:27.060Z"}
-{"level":"info","message":"Poll Interval: 30000ms","timestamp":"2026-09-11T23:19:27.071Z"}
-{"level":"info","message":"Latency Threshold: 2000ms","timestamp":"2026-09-11T23:19:27.072Z"}
-{"level":"info","message":"--- Starting Polling Cycle (5 endpoints) ---","timestamp":"2026-09-11T23:19:27.073Z"}
-{"level":"info","message":"API Server listening on port 3000","timestamp":"2026-09-11T23:19:27.191Z"}
-{"level":"warn","message":"[FAIL] Mock Healthy     | ERR | N/A    | Reason: fetch failed","timestamp":"2026-09-11T23:19:27.237Z"}
-{"level":"warn","message":"[FAIL] Mock Unstable    | ERR | N/A    | Reason: fetch failed","timestamp":"2026-09-11T23:19:27.239Z"}
-{"level":"info","message":"[OK] JSONPlaceholder  | 200 | 342ms ","timestamp":"2026-09-11T23:19:27.416Z"}
-{"level":"info","message":"[OK] ReqRes API       | 200 | 838ms ","timestamp":"2026-09-11T23:19:28.018Z"}
-{"level":"info","message":"[OK] HTTPBin GET      | 200 | 1044ms","timestamp":"2026-09-11T23:19:28.220Z"}
-{"level":"error","message":"ALERT TRIGGERED for Mock Healthy - Reason: fetch failed","timestamp":"2026-09-11T23:19:28.236Z"}
-{"level":"error","message":"ALERT TRIGGERED for Mock Unstable - Reason: fetch failed","timestamp":"2026-09-11T23:19:28.256Z"}
-{"level":"info","message":"--- Starting Polling Cycle (5 endpoints) ---","timestamp":"2026-09-11T23:19:57.197Z"}
-{"level":"warn","message":"[FAIL] Mock Healthy     | ERR | N/A    | Reason: fetch failed","timestamp":"2026-09-11T23:19:57.217Z"}
-{"level":"warn","message":"[FAIL] Mock Unstable    | ERR | N/A    | Reason: fetch failed","timestamp":"2026-09-11T23:19:57.219Z"}
-{"level":"info","message":"[OK] ReqRes API       | 200 | 194ms ","timestamp":"2026-09-11T23:19:57.399Z"}
-{"level":"info","message":"[OK] JSONPlaceholder  | 200 | 203ms ","timestamp":"2026-09-11T23:19:57.402Z"}
-{"level":"info","message":"[OK] HTTPBin GET      | 200 | 1414ms","timestamp":"2026-09-11T23:19:58.617Z"}
-{"level":"error","message":"ALERT TRIGGERED for Mock Healthy - Reason: fetch failed","timestamp":"2026-09-11T23:19:58.620Z"}
-{"level":"error","message":"ALERT TRIGGERED for Mock Unstable - Reason: fetch failed","timestamp":"2026-09-11T23:19:58.621Z"}
-{"level":"info","message":"--- Starting Polling Cycle (5 endpoints) ---","timestamp":"2026-09-11T23:20:27.204Z"}
-{"level":"warn","message":"[FAIL] Mock Healthy     | ERR | N/A    | Reason: fetch failed","timestamp":"2026-09-11T23:20:27.224Z"}
-{"level":"warn","message":"[FAIL] Mock Unstable    | ERR | N/A    | Reason: fetch failed","timestamp":"2026-09-11T23:20:27.227Z"}
-{"level":"info","message":"[OK] ReqRes API       | 200 | 315ms ","timestamp":"2026-09-11T23:20:27.528Z"}
-{"level":"info","message":"[OK] JSONPlaceholder  | 200 | 572ms ","timestamp":"2026-09-11T23:20:27.779Z"}
-{"level":"info","message":"[OK] HTTPBin GET      | 200 | 1116ms","timestamp":"2026-09-11T23:20:28.327Z"}
-{"level":"error","message":"ALERT TRIGGERED for Mock Healthy - Reason: fetch failed","timestamp":"2026-09-11T23:20:28.330Z"}
-{"level":"error","message":"ALERT TRIGGERED for Mock Unstable - Reason: fetch failed","timestamp":"2026-09-11T23:20:28.331Z"}
-{"level":"info","message":"--- Starting Polling Cycle (5 endpoints) ---","timestamp":"2026-09-11T23:20:57.216Z"}
-{"level":"warn","message":"[FAIL] Mock Healthy     | ERR | N/A    | Reason: fetch failed","timestamp":"2026-09-11T23:20:57.228Z"}
-{"level":"warn","message":"[FAIL] Mock Unstable    | ERR | N/A    | Reason: fetch failed","timestamp":"2026-09-11T23:20:57.229Z"}
-{"level":"warn","message":"[FAIL] JSONPlaceholder  | ERR | N/A    | Reason: Request timed out after 5000ms","timestamp":"2026-09-11T23:21:02.223Z"}
-{"level":"warn","message":"[FAIL] HTTPBin GET      | ERR | N/A    | Reason: Request timed out after 5000ms","timestamp":"2026-09-11T23:21:02.224Z"}
-{"level":"warn","message":"[FAIL] ReqRes API       | ERR | N/A    | Reason: Request timed out after 5000ms","timestamp":"2026-09-11T23:21:02.226Z"}
-{"level":"error","message":"ALERT TRIGGERED for JSONPlaceholder - Reason: Request timed out after 5000ms","timestamp":"2026-09-11T23:21:02.228Z"}
-{"level":"error","message":"ALERT TRIGGERED for HTTPBin GET - Reason: Request timed out after 5000ms","timestamp":"2026-09-11T23:21:02.231Z"}
-{"level":"error","message":"ALERT TRIGGERED for ReqRes API - Reason: Request timed out after 5000ms","timestamp":"2026-09-11T23:21:02.233Z"}
-{"level":"error","message":"ALERT TRIGGERED for Mock Healthy - Reason: fetch failed","timestamp":"2026-09-11T23:21:02.234Z"}
-{"level":"error","message":"ALERT TRIGGERED for Mock Unstable - Reason: fetch failed","timestamp":"2026-09-11T23:21:02.237Z"}
-{"level":"info","message":"--- Starting Polling Cycle (5 endpoints) ---","timestamp":"2026-09-11T23:21:27.228Z"}
-{"level":"warn","message":"[FAIL] Mock Healthy     | ERR | N/A    | Reason: fetch failed","timestamp":"2026-09-11T23:21:27.236Z"}
-{"level":"warn","message":"[FAIL] Mock Unstable    | ERR | N/A    | Reason: fetch failed","timestamp":"2026-09-11T23:21:27.237Z"}
-{"level":"info","message":"[OK] JSONPlaceholder  | 200 | 528ms ","timestamp":"2026-09-11T23:21:27.757Z"}
-{"level":"info","message":"[OK] ReqRes API       | 200 | 695ms ","timestamp":"2026-09-11T23:21:27.927Z"}
-{"level":"info","message":"[OK] HTTPBin GET      | 200 | 1045ms","timestamp":"2026-09-11T23:21:28.276Z"}
-{"level":"error","message":"ALERT TRIGGERED for Mock Healthy - Reason: fetch failed","timestamp":"2026-09-11T23:21:28.279Z"}
-{"level":"error","message":"ALERT TRIGGERED for Mock Unstable - Reason: fetch failed","timestamp":"2026-09-11T23:21:28.281Z"}
-{"level":"info","message":"--- Starting Polling Cycle (5 endpoints) ---","timestamp":"2026-09-11T23:21:57.247Z"}
-{"level":"warn","message":"[FAIL] Mock Healthy     | ERR | N/A    | Reason: fetch failed","timestamp":"2026-09-11T23:21:57.272Z"}
-{"level":"warn","message":"[FAIL] Mock Unstable    | ERR | N/A    | Reason: fetch failed","timestamp":"2026-09-11T23:21:57.274Z"}
-{"level":"info","message":"[OK] JSONPlaceholder  | 200 | 240ms ","timestamp":"2026-09-11T23:21:57.488Z"}
-{"level":"info","message":"[OK] ReqRes API       | 200 | 237ms ","timestamp":"2026-09-11T23:21:57.490Z"}
-{"level":"info","message":"[OK] HTTPBin GET      | 200 | 1397ms","timestamp":"2026-09-11T23:21:58.647Z"}
-{"level":"error","message":"ALERT TRIGGERED for Mock Healthy - Reason: fetch failed","timestamp":"2026-09-11T23:21:58.652Z"}
-{"level":"error","message":"ALERT TRIGGERED for Mock Unstable - Reason: fetch failed","timestamp":"2026-09-11T23:21:58.653Z"}
-{"level":"info","message":"--- Starting Polling Cycle (5 endpoints) ---","timestamp":"2026-09-11T23:22:27.254Z"}
-{"level":"warn","message":"[FAIL] Mock Healthy     | ERR | N/A    | Reason: fetch failed","timestamp":"2026-09-11T23:22:27.600Z"}
-{"level":"warn","message":"[FAIL] Mock Unstable    | ERR | N/A    | Reason: fetch failed","timestamp":"2026-09-11T23:22:27.601Z"}
-{"level":"info","message":"[OK] ReqRes API       | 200 | 751ms ","timestamp":"2026-09-11T23:22:28.007Z"}
-{"level":"info","message":"[OK] JSONPlaceholder  | 200 | 1134ms","timestamp":"2026-09-11T23:22:28.388Z"}
-{"level":"warn","message":"[FAIL] HTTPBin GET      | 200 | 2140ms | Reason: Latency 2140ms exceeds threshold of 2000ms","timestamp":"2026-09-11T23:22:29.396Z"}
-{"level":"error","message":"ALERT TRIGGERED for HTTPBin GET - Reason: Latency 2140ms exceeds threshold of 2000ms","timestamp":"2026-09-11T23:22:29.396Z"}
-{"level":"error","message":"ALERT TRIGGERED for Mock Healthy - Reason: fetch failed","timestamp":"2026-09-11T23:22:29.397Z"}
-{"level":"error","message":"ALERT TRIGGERED for Mock Unstable - Reason: fetch failed","timestamp":"2026-09-11T23:22:29.399Z"}
-{"level":"info","message":"--- Starting Polling Cycle (5 endpoints) ---","timestamp":"2026-09-11T23:22:57.263Z"}
-{"level":"warn","message":"[FAIL] Mock Healthy     | ERR | N/A    | Reason: fetch failed","timestamp":"2026-09-11T23:22:57.279Z"}
-{"level":"warn","message":"[FAIL] Mock Unstable    | ERR | N/A    | Reason: fetch failed","timestamp":"2026-09-11T23:22:57.281Z"}
-{"level":"info","message":"[OK] JSONPlaceholder  | 200 | 182ms ","timestamp":"2026-09-11T23:22:57.447Z"}
-{"level":"info","message":"[OK] ReqRes API       | 200 | 649ms ","timestamp":"2026-09-11T23:22:57.917Z"}
-{"level":"info","message":"[OK] HTTPBin GET      | 200 | 990ms ","timestamp":"2026-09-11T23:22:58.256Z"}
-{"level":"error","message":"ALERT TRIGGERED for Mock Healthy - Reason: fetch failed","timestamp":"2026-09-11T23:22:58.261Z"}
-{"level":"error","message":"ALERT TRIGGERED for Mock Unstable - Reason: fetch failed","timestamp":"2026-09-11T23:22:58.263Z"}
-{"level":"info","message":"--- Starting Polling Cycle (5 endpoints) ---","timestamp":"2026-09-11T23:23:27.275Z"}
-{"level":"warn","message":"[FAIL] Mock Healthy     | ERR | N/A    | Reason: fetch failed","timestamp":"2026-09-11T23:23:27.288Z"}
-{"level":"warn","message":"[FAIL] Mock Unstable    | ERR | N/A    | Reason: fetch failed","timestamp":"2026-09-11T23:23:27.290Z"}
-{"level":"info","message":"[OK] ReqRes API       | 200 | 185ms ","timestamp":"2026-09-11T23:23:27.465Z"}
-{"level":"info","message":"[OK] JSONPlaceholder  | 200 | 531ms ","timestamp":"2026-09-11T23:23:27.808Z"}
-{"level":"info","message":"[OK] HTTPBin GET      | 200 | 1058ms","timestamp":"2026-09-11T23:23:28.337Z"}
-{"level":"error","message":"ALERT TRIGGERED for Mock Healthy - Reason: fetch failed","timestamp":"2026-09-11T23:23:28.339Z"}
-{"level":"error","message":"ALERT TRIGGERED for Mock Unstable - Reason: fetch failed","timestamp":"2026-09-11T23:23:28.349Z"}
-{"level":"info","message":"Gracefully shutting down...","timestamp":"2026-09-11T23:23:53.870Z"}
+{"level":"info","message":"Starting Gateway Health Monitor...","timestamp":"2026-09-12T22:47:12.473Z"}
+{"level":"info","message":"Poll Interval: 30000ms","timestamp":"2026-09-12T22:47:12.478Z"}
+{"level":"info","message":"Latency Threshold: 2000ms","timestamp":"2026-09-12T22:47:12.479Z"}
+{"level":"info","message":"--- Starting Polling Cycle (6 endpoints) ---","timestamp":"2026-09-12T22:47:12.479Z"}
+{"level":"info","message":"API Server listening on port 3000","timestamp":"2026-09-12T22:47:12.533Z"}
+{"level":"info","message":"[OK] Mock Healthy     | 200 | 88ms  ","timestamp":"2026-09-12T22:47:12.616Z"}
+{"level":"info","message":"[OK] Mock Unstable    | 200 | 88ms  ","timestamp":"2026-09-12T22:47:12.617Z"}
+{"level":"info","message":"[OK] JSONPlaceholder  | 200 | 615ms ","timestamp":"2026-09-12T22:47:13.094Z"}
+{"level":"info","message":"[OK] ReqRes API       | 200 | 857ms ","timestamp":"2026-09-12T22:47:13.384Z"}
+{"level":"info","message":"[OK] HTTPBin GET      | 200 | 1157ms","timestamp":"2026-09-12T22:47:13.683Z"}
+{"level":"warn","message":"[FAIL] Mock Slow        | 200 | 3099ms | Reason: Latency 3099ms exceeds threshold of 2000ms","timestamp":"2026-09-12T22:47:15.629Z"}
+{"level":"error","message":"ALERT TRIGGERED for Mock Slow - Reason: Latency 3099ms exceeds threshold of 2000ms","timestamp":"2026-09-12T22:47:15.630Z"}
+{"level":"info","message":"--- Starting Polling Cycle (6 endpoints) ---","timestamp":"2026-09-12T22:47:42.533Z"}
+{"level":"info","message":"[OK] Mock Healthy     | 200 | 25ms  ","timestamp":"2026-09-12T22:47:42.564Z"}
+{"level":"info","message":"[OK] Mock Unstable    | 200 | 26ms  ","timestamp":"2026-09-12T22:47:42.566Z"}
+{"level":"info","message":"[OK] ReqRes API       | 200 | 187ms ","timestamp":"2026-09-12T22:47:42.724Z"}
+{"level":"info","message":"[OK] JSONPlaceholder  | 200 | 562ms ","timestamp":"2026-09-12T22:47:43.095Z"}
+{"level":"info","message":"[OK] HTTPBin GET      | 200 | 1157ms","timestamp":"2026-09-12T22:47:43.693Z"}
+{"level":"warn","message":"[FAIL] Mock Slow        | 200 | 3038ms | Reason: Latency 3038ms exceeds threshold of 2000ms","timestamp":"2026-09-12T22:47:45.578Z"}
+{"level":"error","message":"ALERT TRIGGERED for Mock Slow - Reason: Latency 3038ms exceeds threshold of 2000ms","timestamp":"2026-09-12T22:47:45.581Z"}
+{"level":"info","message":"--- Starting Polling Cycle (6 endpoints) ---","timestamp":"2026-09-12T22:48:12.543Z"}
+{"level":"info","message":"[OK] Mock Healthy     | 200 | 18ms  ","timestamp":"2026-09-12T22:48:12.566Z"}
+{"level":"info","message":"[OK] Mock Unstable    | 200 | 20ms  ","timestamp":"2026-09-12T22:48:12.569Z"}
+{"level":"info","message":"[OK] ReqRes API       | 200 | 257ms ","timestamp":"2026-09-12T22:48:12.804Z"}
+{"level":"info","message":"[OK] JSONPlaceholder  | 200 | 552ms ","timestamp":"2026-09-12T22:48:13.096Z"}
+{"level":"info","message":"[OK] HTTPBin GET      | 200 | 1108ms","timestamp":"2026-09-12T22:48:13.654Z"}
+{"level":"warn","message":"[FAIL] Mock Slow        | 200 | 3026ms | Reason: Latency 3026ms exceeds threshold of 2000ms","timestamp":"2026-09-12T22:48:15.575Z"}
+{"level":"error","message":"ALERT TRIGGERED for Mock Slow - Reason: Latency 3026ms exceeds threshold of 2000ms","timestamp":"2026-09-12T22:48:15.577Z"}
+{"level":"info","message":"--- Starting Polling Cycle (6 endpoints) ---","timestamp":"2026-09-12T22:48:42.557Z"}
+{"level":"info","message":"[OK] Mock Healthy     | 200 | 76ms  ","timestamp":"2026-09-12T22:48:42.641Z"}
+{"level":"warn","message":"[FAIL] Mock Unstable    | 503 | 77ms   | Reason: HTTP 503 Service Unavailable","timestamp":"2026-09-12T22:48:42.643Z"}
+{"level":"info","message":"[OK] JSONPlaceholder  | 200 | 636ms ","timestamp":"2026-09-12T22:48:43.194Z"}
+{"level":"info","message":"[OK] ReqRes API       | 200 | 730ms ","timestamp":"2026-09-12T22:48:43.294Z"}
+{"level":"info","message":"[OK] HTTPBin GET      | 200 | 1623ms","timestamp":"2026-09-12T22:48:44.183Z"}
+{"level":"warn","message":"[FAIL] Mock Slow        | 200 | 3092ms | Reason: Latency 3092ms exceeds threshold of 2000ms","timestamp":"2026-09-12T22:48:45.658Z"}
+{"level":"error","message":"ALERT TRIGGERED for Mock Unstable - Reason: HTTP 503 Service Unavailable","timestamp":"2026-09-12T22:48:45.660Z"}
+{"level":"error","message":"ALERT TRIGGERED for Mock Slow - Reason: Latency 3092ms exceeds threshold of 2000ms","timestamp":"2026-09-12T22:48:45.665Z"}
+{"level":"info","message":"--- Starting Polling Cycle (6 endpoints) ---","timestamp":"2026-09-12T22:49:12.561Z"}
+{"level":"info","message":"[OK] Mock Healthy     | 200 | 21ms  ","timestamp":"2026-09-12T22:49:12.587Z"}
+{"level":"warn","message":"[FAIL] Mock Unstable    | 503 | 21ms   | Reason: HTTP 503 Service Unavailable","timestamp":"2026-09-12T22:49:12.588Z"}
+{"level":"info","message":"[OK] ReqRes API       | 200 | 219ms ","timestamp":"2026-09-12T22:49:12.784Z"}
+{"level":"info","message":"[OK] JSONPlaceholder  | 200 | 514ms ","timestamp":"2026-09-12T22:49:13.076Z"}
+{"level":"info","message":"[OK] HTTPBin GET      | 200 | 1350ms","timestamp":"2026-09-12T22:49:13.914Z"}
+{"level":"warn","message":"[FAIL] Mock Slow        | 200 | 3031ms | Reason: Latency 3031ms exceeds threshold of 2000ms","timestamp":"2026-09-12T22:49:15.598Z"}
+{"level":"error","message":"ALERT TRIGGERED for Mock Unstable - Reason: HTTP 503 Service Unavailable","timestamp":"2026-09-12T22:49:15.605Z"}
+{"level":"error","message":"ALERT TRIGGERED for Mock Slow - Reason: Latency 3031ms exceeds threshold of 2000ms","timestamp":"2026-09-12T22:49:15.621Z"}
+{"level":"info","message":"--- Starting Polling Cycle (6 endpoints) ---","timestamp":"2026-09-12T22:49:42.575Z"}
+{"level":"info","message":"[OK] Mock Healthy     | 200 | 15ms  ","timestamp":"2026-09-12T22:49:42.598Z"}
+{"level":"warn","message":"[FAIL] Mock Unstable    | 503 | 18ms   | Reason: HTTP 503 Service Unavailable","timestamp":"2026-09-12T22:49:42.602Z"}
+{"level":"info","message":"[OK] ReqRes API       | 200 | 214ms ","timestamp":"2026-09-12T22:49:42.794Z"}
+{"level":"info","message":"[OK] JSONPlaceholder  | 200 | 488ms ","timestamp":"2026-09-12T22:49:43.064Z"}
+{"level":"info","message":"[OK] HTTPBin GET      | 200 | 995ms ","timestamp":"2026-09-12T22:49:43.574Z"}
+{"level":"warn","message":"[FAIL] Mock Slow        | 200 | 3029ms | Reason: Latency 3029ms exceeds threshold of 2000ms","timestamp":"2026-09-12T22:49:45.614Z"}
+{"level":"error","message":"ALERT TRIGGERED for Mock Unstable - Reason: HTTP 503 Service Unavailable","timestamp":"2026-09-12T22:49:45.617Z"}
+{"level":"error","message":"ALERT TRIGGERED for Mock Slow - Reason: Latency 3029ms exceeds threshold of 2000ms","timestamp":"2026-09-12T22:49:45.620Z"}
+{"level":"info","message":"--- Starting Polling Cycle (6 endpoints) ---","timestamp":"2026-09-12T22:50:12.582Z"}
+{"level":"info","message":"[OK] Mock Healthy     | 200 | 22ms  ","timestamp":"2026-09-12T22:50:12.609Z"}
+{"level":"info","message":"[OK] Mock Unstable    | 200 | 29ms  ","timestamp":"2026-09-12T22:50:12.617Z"}
+{"level":"info","message":"[OK] JSONPlaceholder  | 200 | 181ms ","timestamp":"2026-09-12T22:50:12.765Z"}
+{"level":"info","message":"[OK] ReqRes API       | 200 | 657ms ","timestamp":"2026-09-12T22:50:13.244Z"}
+{"level":"info","message":"[OK] HTTPBin GET      | 200 | 1308ms","timestamp":"2026-09-12T22:50:13.893Z"}
+{"level":"warn","message":"[FAIL] Mock Slow        | 200 | 3039ms | Reason: Latency 3039ms exceeds threshold of 2000ms","timestamp":"2026-09-12T22:50:15.628Z"}
+{"level":"error","message":"ALERT TRIGGERED for Mock Slow - Reason: Latency 3039ms exceeds threshold of 2000ms","timestamp":"2026-09-12T22:50:15.634Z"}
+{"level":"info","message":"--- Starting Polling Cycle (6 endpoints) ---","timestamp":"2026-09-12T22:50:42.593Z"}
+{"level":"warn","message":"[FAIL] Mock Healthy     | ERR | N/A    | Reason: fetch failed","timestamp":"2026-09-12T22:50:42.646Z"}
+{"level":"warn","message":"[FAIL] Mock Unstable    | ERR | N/A    | Reason: fetch failed","timestamp":"2026-09-12T22:50:42.647Z"}
+{"level":"warn","message":"[FAIL] Mock Slow        | ERR | N/A    | Reason: fetch failed","timestamp":"2026-09-12T22:50:42.648Z"}
+{"level":"info","message":"[OK] ReqRes API       | 200 | 274ms ","timestamp":"2026-09-12T22:50:42.874Z"}
+{"level":"info","message":"[OK] JSONPlaceholder  | 200 | 598ms ","timestamp":"2026-09-12T22:50:43.194Z"}
+{"level":"info","message":"[OK] HTTPBin GET      | 200 | 1157ms","timestamp":"2026-09-12T22:50:43.754Z"}
+{"level":"error","message":"ALERT TRIGGERED for Mock Healthy - Reason: fetch failed","timestamp":"2026-09-12T22:50:43.756Z"}
+{"level":"error","message":"ALERT TRIGGERED for Mock Unstable - Reason: fetch failed","timestamp":"2026-09-12T22:50:43.757Z"}
+{"level":"error","message":"ALERT TRIGGERED for Mock Slow - Reason: fetch failed","timestamp":"2026-09-12T22:50:43.759Z"}
+{"level":"info","message":"--- Starting Polling Cycle (6 endpoints) ---","timestamp":"2026-09-12T22:51:12.601Z"}
+{"level":"warn","message":"[FAIL] Mock Healthy     | ERR | N/A    | Reason: fetch failed","timestamp":"2026-09-12T22:51:12.631Z"}
+{"level":"warn","message":"[FAIL] Mock Unstable    | ERR | N/A    | Reason: fetch failed","timestamp":"2026-09-12T22:51:12.635Z"}
+{"level":"warn","message":"[FAIL] Mock Slow        | ERR | N/A    | Reason: fetch failed","timestamp":"2026-09-12T22:51:12.636Z"}
+{"level":"info","message":"[OK] JSONPlaceholder  | 200 | 250ms ","timestamp":"2026-09-12T22:51:12.855Z"}
+{"level":"info","message":"[OK] ReqRes API       | 200 | 275ms ","timestamp":"2026-09-12T22:51:12.884Z"}
+{"level":"info","message":"[OK] HTTPBin GET      | 200 | 1345ms","timestamp":"2026-09-12T22:51:13.953Z"}
+{"level":"error","message":"ALERT TRIGGERED for Mock Healthy - Reason: fetch failed","timestamp":"2026-09-12T22:51:13.955Z"}
+{"level":"error","message":"ALERT TRIGGERED for Mock Unstable - Reason: fetch failed","timestamp":"2026-09-12T22:51:13.958Z"}
+{"level":"error","message":"ALERT TRIGGERED for Mock Slow - Reason: fetch failed","timestamp":"2026-09-12T22:51:13.961Z"}
+{"level":"info","message":"Gracefully shutting down...","timestamp":"2026-09-12T22:51:33.672Z"}
