@@ -1,53 +1,16 @@
-{"level":"error","message":"ALERT TRIGGERED for Mock Healthy - Reason: fetch failed","timestamp":"2026-09-11T22:59:22.412Z"}
-{"level":"error","message":"ALERT TRIGGERED for Mock Unstable - Reason: fetch failed","timestamp":"2026-09-11T22:59:22.413Z"}
-{"level":"error","message":"ALERT TRIGGERED for Mock Healthy - Reason: fetch failed","timestamp":"2026-09-11T22:59:52.371Z"}
-{"level":"error","message":"ALERT TRIGGERED for Mock Unstable - Reason: fetch failed","timestamp":"2026-09-11T22:59:52.372Z"}
-{"level":"error","message":"ALERT TRIGGERED for Mock Healthy - Reason: fetch failed","timestamp":"2026-09-11T23:00:22.323Z"}
-{"level":"error","message":"ALERT TRIGGERED for Mock Unstable - Reason: fetch failed","timestamp":"2026-09-11T23:00:22.328Z"}
-{"level":"error","message":"ALERT TRIGGERED for Mock Healthy - Reason: fetch failed","timestamp":"2026-09-11T23:00:52.223Z"}
-{"level":"error","message":"ALERT TRIGGERED for Mock Unstable - Reason: fetch failed","timestamp":"2026-09-11T23:00:52.230Z"}
-{"level":"error","message":"ALERT TRIGGERED for Mock Healthy - Reason: fetch failed","timestamp":"2026-09-11T23:01:22.529Z"}
-{"level":"error","message":"ALERT TRIGGERED for Mock Unstable - Reason: fetch failed","timestamp":"2026-09-11T23:01:22.531Z"}
-{"level":"error","message":"ALERT TRIGGERED for Mock Healthy - Reason: fetch failed","timestamp":"2026-09-11T23:01:52.271Z"}
-{"level":"error","message":"ALERT TRIGGERED for Mock Unstable - Reason: fetch failed","timestamp":"2026-09-11T23:01:52.272Z"}
-{"level":"error","message":"ALERT TRIGGERED for Mock Healthy - Reason: fetch failed","timestamp":"2026-09-11T23:02:22.408Z"}
-{"level":"error","message":"ALERT TRIGGERED for Mock Unstable - Reason: fetch failed","timestamp":"2026-09-11T23:02:22.409Z"}
-{"level":"error","message":"ALERT TRIGGERED for Mock Healthy - Reason: fetch failed","timestamp":"2026-09-11T23:02:52.590Z"}
-{"level":"error","message":"ALERT TRIGGERED for Mock Unstable - Reason: fetch failed","timestamp":"2026-09-11T23:02:52.607Z"}
-{"level":"error","message":"ALERT TRIGGERED for Mock Healthy - Reason: fetch failed","timestamp":"2026-09-11T23:03:22.502Z"}
-{"level":"error","message":"ALERT TRIGGERED for Mock Unstable - Reason: fetch failed","timestamp":"2026-09-11T23:03:22.503Z"}
-{"level":"error","message":"ALERT TRIGGERED for Mock Healthy - Reason: fetch failed","timestamp":"2026-09-11T23:03:52.651Z"}
-{"level":"error","message":"ALERT TRIGGERED for Mock Unstable - Reason: fetch failed","timestamp":"2026-09-11T23:03:52.654Z"}
-{"level":"error","message":"ALERT TRIGGERED for Mock Healthy - Reason: fetch failed","timestamp":"2026-09-11T23:04:22.483Z"}
-{"level":"error","message":"ALERT TRIGGERED for Mock Unstable - Reason: fetch failed","timestamp":"2026-09-11T23:04:22.486Z"}
-{"level":"error","message":"ALERT TRIGGERED for Mock Healthy - Reason: fetch failed","timestamp":"2026-09-11T23:04:52.369Z"}
-{"level":"error","message":"ALERT TRIGGERED for Mock Unstable - Reason: fetch failed","timestamp":"2026-09-11T23:04:52.371Z"}
-{"level":"error","message":"ALERT TRIGGERED for Mock Healthy - Reason: fetch failed","timestamp":"2026-09-11T23:05:22.389Z"}
-{"level":"error","message":"ALERT TRIGGERED for Mock Unstable - Reason: fetch failed","timestamp":"2026-09-11T23:05:22.391Z"}
-{"level":"error","message":"ALERT TRIGGERED for Mock Healthy - Reason: fetch failed","timestamp":"2026-09-11T23:05:52.682Z"}
-{"level":"error","message":"ALERT TRIGGERED for Mock Unstable - Reason: fetch failed","timestamp":"2026-09-11T23:05:52.686Z"}
-{"level":"error","message":"ALERT TRIGGERED for HTTPBin GET - Reason: Request timed out after 5000ms","timestamp":"2026-09-11T23:06:26.373Z"}
-{"level":"error","message":"ALERT TRIGGERED for Mock Healthy - Reason: fetch failed","timestamp":"2026-09-11T23:06:26.374Z"}
-{"level":"error","message":"ALERT TRIGGERED for Mock Unstable - Reason: fetch failed","timestamp":"2026-09-11T23:06:26.381Z"}
-{"level":"error","message":"ALERT TRIGGERED for Mock Healthy - Reason: fetch failed","timestamp":"2026-09-11T23:19:28.236Z"}
-{"level":"error","message":"ALERT TRIGGERED for Mock Unstable - Reason: fetch failed","timestamp":"2026-09-11T23:19:28.256Z"}
-{"level":"error","message":"ALERT TRIGGERED for Mock Healthy - Reason: fetch failed","timestamp":"2026-09-11T23:19:58.620Z"}
-{"level":"error","message":"ALERT TRIGGERED for Mock Unstable - Reason: fetch failed","timestamp":"2026-09-11T23:19:58.621Z"}
-{"level":"error","message":"ALERT TRIGGERED for Mock Healthy - Reason: fetch failed","timestamp":"2026-09-11T23:20:28.330Z"}
-{"level":"error","message":"ALERT TRIGGERED for Mock Unstable - Reason: fetch failed","timestamp":"2026-09-11T23:20:28.331Z"}
-{"level":"error","message":"ALERT TRIGGERED for JSONPlaceholder - Reason: Request timed out after 5000ms","timestamp":"2026-09-11T23:21:02.228Z"}
-{"level":"error","message":"ALERT TRIGGERED for HTTPBin GET - Reason: Request timed out after 5000ms","timestamp":"2026-09-11T23:21:02.231Z"}
-{"level":"error","message":"ALERT TRIGGERED for ReqRes API - Reason: Request timed out after 5000ms","timestamp":"2026-09-11T23:21:02.233Z"}
-{"level":"error","message":"ALERT TRIGGERED for Mock Healthy - Reason: fetch failed","timestamp":"2026-09-11T23:21:02.234Z"}
-{"level":"error","message":"ALERT TRIGGERED for Mock Unstable - Reason: fetch failed","timestamp":"2026-09-11T23:21:02.237Z"}
-{"level":"error","message":"ALERT TRIGGERED for Mock Healthy - Reason: fetch failed","timestamp":"2026-09-11T23:21:28.279Z"}
-{"level":"error","message":"ALERT TRIGGERED for Mock Unstable - Reason: fetch failed","timestamp":"2026-09-11T23:21:28.281Z"}
-{"level":"error","message":"ALERT TRIGGERED for Mock Healthy - Reason: fetch failed","timestamp":"2026-09-11T23:21:58.652Z"}
-{"level":"error","message":"ALERT TRIGGERED for Mock Unstable - Reason: fetch failed","timestamp":"2026-09-11T23:21:58.653Z"}
-{"level":"error","message":"ALERT TRIGGERED for HTTPBin GET - Reason: Latency 2140ms exceeds threshold of 2000ms","timestamp":"2026-09-11T23:22:29.396Z"}
-{"level":"error","message":"ALERT TRIGGERED for Mock Healthy - Reason: fetch failed","timestamp":"2026-09-11T23:22:29.397Z"}
-{"level":"error","message":"ALERT TRIGGERED for Mock Unstable - Reason: fetch failed","timestamp":"2026-09-11T23:22:29.399Z"}
-{"level":"error","message":"ALERT TRIGGERED for Mock Healthy - Reason: fetch failed","timestamp":"2026-09-11T23:22:58.261Z"}
-{"level":"error","message":"ALERT TRIGGERED for Mock Unstable - Reason: fetch failed","timestamp":"2026-09-11T23:22:58.263Z"}
-{"level":"error","message":"ALERT TRIGGERED for Mock Healthy - Reason: fetch failed","timestamp":"2026-09-11T23:23:28.339Z"}
-{"level":"error","message":"ALERT TRIGGERED for Mock Unstable - Reason: fetch failed","timestamp":"2026-09-11T23:23:28.349Z"}
+{"level":"error","message":"ALERT TRIGGERED for Mock Slow - Reason: Latency 3099ms exceeds threshold of 2000ms","timestamp":"2026-09-12T22:47:15.630Z"}
+{"level":"error","message":"ALERT TRIGGERED for Mock Slow - Reason: Latency 3038ms exceeds threshold of 2000ms","timestamp":"2026-09-12T22:47:45.581Z"}
+{"level":"error","message":"ALERT TRIGGERED for Mock Slow - Reason: Latency 3026ms exceeds threshold of 2000ms","timestamp":"2026-09-12T22:48:15.577Z"}
+{"level":"error","message":"ALERT TRIGGERED for Mock Unstable - Reason: HTTP 503 Service Unavailable","timestamp":"2026-09-12T22:48:45.660Z"}
+{"level":"error","message":"ALERT TRIGGERED for Mock Slow - Reason: Latency 3092ms exceeds threshold of 2000ms","timestamp":"2026-09-12T22:48:45.665Z"}
+{"level":"error","message":"ALERT TRIGGERED for Mock Unstable - Reason: HTTP 503 Service Unavailable","timestamp":"2026-09-12T22:49:15.605Z"}
+{"level":"error","message":"ALERT TRIGGERED for Mock Slow - Reason: Latency 3031ms exceeds threshold of 2000ms","timestamp":"2026-09-12T22:49:15.621Z"}
+{"level":"error","message":"ALERT TRIGGERED for Mock Unstable - Reason: HTTP 503 Service Unavailable","timestamp":"2026-09-12T22:49:45.617Z"}
+{"level":"error","message":"ALERT TRIGGERED for Mock Slow - Reason: Latency 3029ms exceeds threshold of 2000ms","timestamp":"2026-09-12T22:49:45.620Z"}
+{"level":"error","message":"ALERT TRIGGERED for Mock Slow - Reason: Latency 3039ms exceeds threshold of 2000ms","timestamp":"2026-09-12T22:50:15.634Z"}
+{"level":"error","message":"ALERT TRIGGERED for Mock Healthy - Reason: fetch failed","timestamp":"2026-09-12T22:50:43.756Z"}
+{"level":"error","message":"ALERT TRIGGERED for Mock Unstable - Reason: fetch failed","timestamp":"2026-09-12T22:50:43.757Z"}
+{"level":"error","message":"ALERT TRIGGERED for Mock Slow - Reason: fetch failed","timestamp":"2026-09-12T22:50:43.759Z"}
+{"level":"error","message":"ALERT TRIGGERED for Mock Healthy - Reason: fetch failed","timestamp":"2026-09-12T22:51:13.955Z"}
+{"level":"error","message":"ALERT TRIGGERED for Mock Unstable - Reason: fetch failed","timestamp":"2026-09-12T22:51:13.958Z"}
+{"level":"error","message":"ALERT TRIGGERED for Mock Slow - Reason: fetch failed","timestamp":"2026-09-12T22:51:13.961Z"}
